@@ -1,0 +1,11 @@
+E:\Codes\VisualStudio\Projects\GAGvbCalculadora\GAGvbCalculadora\bin\Debug\GAGvbCalculadora.exe.config
+E:\Codes\VisualStudio\Projects\GAGvbCalculadora\GAGvbCalculadora\obj\Debug\GAGvbCalculadora.vbprojResolveAssemblyReference.cache
+E:\Codes\VisualStudio\Projects\GAGvbCalculadora\GAGvbCalculadora\obj\Debug\GAGvbCalculadora.GAGvbCalculadora.resources
+E:\Codes\VisualStudio\Projects\GAGvbCalculadora\GAGvbCalculadora\obj\Debug\GAGvbCalculadora.Resources.resources
+E:\Codes\VisualStudio\Projects\GAGvbCalculadora\GAGvbCalculadora\obj\Debug\GAGvbCalculadora.vbproj.GenerateResource.Cache
+E:\Codes\VisualStudio\Projects\GAGvbCalculadora\GAGvbCalculadora\bin\Debug\GAGvbCalculadora.exe
+E:\Codes\VisualStudio\Projects\GAGvbCalculadora\GAGvbCalculadora\bin\Debug\GAGvbCalculadora.pdb
+E:\Codes\VisualStudio\Projects\GAGvbCalculadora\GAGvbCalculadora\bin\Debug\GAGvbCalculadora.xml
+E:\Codes\VisualStudio\Projects\GAGvbCalculadora\GAGvbCalculadora\obj\Debug\GAGvbCalculadora.exe
+E:\Codes\VisualStudio\Projects\GAGvbCalculadora\GAGvbCalculadora\obj\Debug\GAGvbCalculadora.xml
+E:\Codes\VisualStudio\Projects\GAGvbCalculadora\GAGvbCalculadora\obj\Debug\GAGvbCalculadora.pdb
